@@ -17,9 +17,19 @@
             background-color: #333;
             color: #fff;
             padding: 20px;
-            text-align: center;
+            text-align: center; /* Align text to the left */
+            display: flex; /* Use flexbox for alignment */
+            align-items: center; /* Align items vertically */
         }
-
+        header img {
+            width: 100px; /* Example width */
+            height: 100px; /* Example height */
+            border-radius: 50%; /* Example rounded corners */
+            margin-right: 20px; /* Add margin to separate image from text */
+        }
+        .text-container {
+            text-align: center; /* Align text content to the left */
+        }
         nav {
             background-color: #666;
             padding: 10px;
@@ -59,10 +69,9 @@
         }
     </style>
 </head>
+
 <body>
 
-
- 
 <nav>
     <a href="#">Home</a>
     <a href="#">Current Projects</a>
@@ -70,11 +79,20 @@
     <a href="#">Teaching</a>
     <a href="contact.html">Contact</a>
 </nav>
+
 <header>
-<h3>Dr. Nasrin Sohrabi <span style="font-size: 14px;">(Lecturer/Assistant Professor)</span></h3>
-    <h3>PhD. in Computer Science</h3>
-    (Distributed Computing, System Security, Blockchain)
+    <img src="./picture/nasrin_sohrabi_profile.jpg" alt="Dr. Nasrin Sohrabi">
+
+  <!-- Container for text content -->
+  <div class="text-container">
+    <!-- Your information goes here -->
+    <h3><span style="font-weight: normal;">Dr. Nasrin Sohrabi</span> <span style="font-size: 14px;font-weight: normal;">(Lecturer/Assistant Professor)</span></h3>
+    <h3> <span style="font-size: 15px; font-weight: normal;">PhD. in Computer Science</span></h3>
+    <p><span style="font-size: 12px;">(Distributed Computing, System Security, Blockchain)</span></p>
+</div>
+
 </header>
+
 <section style="text-align: left;">
   <h2>About Me</h2>
   <p>
