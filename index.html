@@ -4,85 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Personal Web Page</title>
-    <style>
-        /* CSS Styles */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
-        }
-
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-           /* text-align: center; /* Align text to the left */
-            display: flex; /* Use flexbox for alignment */
-            align-items: center; /* Align items vertically */
-            justify-content: center; /* Center content horizontally */
-            position: relative; /* Set header as a positioned element */
-        }
-        header img {
-            width: 100px; /* Example width */
-            height: 100px; /* Example height */
-            border-radius: 50%; /* Example rounded corners */
-            margin-right: 20px; /* Add margin to separate image from text */
-            position: absolute; /* Position the image absolutely */
-            left: 4%; /* Fixed position on the left */
-        }
-        .text-container {
-            text-align: center; /* Align text content to the left */
-        }
-          
-          /* Adjustments for centering text */
-        h3 {
-            margin: 0; /* Remove default margin */
-        }
-
-        nav {
-            background-color: #666;
-            padding: 10px;
-            text-align: center;
-        }
-
-        nav a {
-            color: #fff;
-            text-decoration: none;
-            margin: 0 10px;
-        }
-
-        nav a:hover {
-            text-decoration: underline;
-        }
-
-        section {
-            padding: 20px;
-        }
-
-        section h2 {
-            text-align: left; /* Align heading to the left */
-        }
-
-        section p {
-            text-align: left; /* Align paragraph text to the left */
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
+    <link rel="./stylesheet" href="styles.css">
 </head>
 
 <body>
-
+   
 <nav>
+    <a style="float: left; margin-right: 20%; font-size: larger;">Welcome!</a>
     <a href="#">Home</a>
     <a href="current projects.html">Current Projects</a>
     <a href="#">Publications</a>
@@ -104,31 +32,34 @@
 
 </header>
 
+<main>
 <section style="text-align: left;">
+ <div class="content">
   <h2>About Me</h2>
-  <p>
+    <p>
       I received a Ph.D. degree in Computer Science from RMIT University, where Professor Zahir Tari supervised me. I obtained a Bachelor's degree in Computer engineering (software) and an Honours degree in computer science. 
       I am currently a lecturer (Assistant Professor) in Cybersecurity discipline, School of Information Technologies, Deakin University (Australia).  I am interested in research topics in the area of systems security and scalability/performance. In particular, my research interests include: 
-  </p>
-  <ul>
+    </p>
+    <ul>
       <li>Systems’ security (such as decentralized systems, Cloud/edge-based systems) and Network security.</li>
       <li>Scalability and performance in large-scale distributed systems (such as blockchains, and more specifically, consensus).</li>
-  </ul>
-  <p>
-    You can also find me on <a href="https://scholar.google.com/citations?hl=en&user=eEWRaCwAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a>, <a href="https://www.linkedin.com/in/nasrin-sohrabi/">LinkedIn</a>, <a href="https://dblp.org/pid/231/1712.html">DBLP</a>, <a href="https://www.researchgate.net/profile/Nasrin_Sohrabi2">ResearchGate</a>. 
-    <!-- Add a blank line -->
-    <br>
+    </ul>
     <p>
-    <span style="font-weight: bold;"> I am always looking for grad/undergrad students with a strong background in the field of system security and performance/scalability. 
-    If you are interested in system research, <a href="nasrin.sohrabi@deakin.edu.au">email me</a>.
-   </span>    
-</p>
-</p>
-
+       You can also find me on <a href="https://scholar.google.com/citations?hl=en&user=eEWRaCwAAAAJ&view_op=list_works&sortby=pubdate">GoogleScholar</a>, <a href="https://www.linkedin.com/in/nasrin-sohrabi/">LinkedIn</a>, <a href="https://dblp.org/pid/231/1712.html">DBLP</a>, <a href="https://www.researchgate.net/profile/Nasrin_Sohrabi2">ResearchGate</a>. 
+       <!-- Add a blank line -->
+       <br>
+       <p>
+        <span style="font-weight: bold;"> I am always looking for grad/undergrad students with a strong background in the field of system security and performance/scalability. 
+          If you are interested in system research, <a href="nasrin.sohrabi@deakin.edu.au">email me</a>.
+        </span>    
+       </p>
+    </p>
+ </div>
 </section>
+</main>
 
 <footer>
-    <p>&copy; 2024 My Personal Web Page. All rights reserved.</p>
+    <p>&copy; 2023 - Dr. Nasrin Sohrabi Web Page. All rights reserved.</p>
 </footer>
 
 </body>
