@@ -49,9 +49,14 @@ nav a:hover {
 }
 
 
-
 section {
     padding: 20px;
+}
+
+.custom-section {
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin: 20px;
 }
 
 section h2 {
