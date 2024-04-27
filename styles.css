@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0b0757;
+}
+
+header {
+    background-color: #363131;
+    color: #fff;
+    padding: 20px;
+   /* text-align: center; /* Align text to the left */
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Align items vertically */
+    justify-content: center; /* Center content horizontally */
+    position: relative; /* Set header as a positioned element */
+}
+header img {
+    width: 100px; /* Example width */
+    height: 100px; /* Example height */
+    border-radius: 50%; /* Example rounded corners */
+    margin-right: 20px; /* Add margin to separate image from text */
+    position: absolute; /* Position the image absolutely */
+    left: 4%; /* Fixed position on the left */
+}
+.text-container {
+    text-align: center; /* Align text content to the left */
+}
+  
+  /* Adjustments for centering text */
+h3 {
+    margin: 0; /* Remove default margin */
+}
+
+nav {
+    background-color: #666;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #ebedfa;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 20px;
+}
+
+section h2 {
+    text-align: left; /* Align heading to the left */
+}
+
+section p {
+    text-align: left; /* Align paragraph text to the left */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.content {
+    width: 80%; /* Adjust as needed */
+    margin: 10vh auto; 
+    background-color: #f7f4f4;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+/* current projects styles */
+
+project{
+    color: #131212; /* Example text color */ 
+}
+
+.inner-div {
+    display: inline-block; /* Display the inner div as inline-block 
+    background-color: #fcf8f8; /* Example background color */
+    padding: 10px; /* Adjust padding to indent the inner div */
+    margin: 0 10px; /* Add margin to indent the inner div */
+    color: #201e1e; /* Example text color */
+}
+
+
+
+/* active awards styles */
+.inner-div {
+    display: inline-block; /* Display the inner div as inline-block 
+    background-color: #fcf8f8; /* Example background color */
+    padding: 10px; /* Adjust padding to indent the inner div */
+     margin: 0 10px; /* Add margin to indent the inner div */
+     color: #201e1e; /* Example text color */
+ }
