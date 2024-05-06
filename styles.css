@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0b0757;
+    background-color: #d3d3d8;
 }
 
 header {
-    background-color: #363131;
+    background-color: #0f0839;
     color: #fff;
     padding: 20px;
    /* text-align: center; /* Align text to the left */
@@ -33,13 +33,13 @@ h3 {
 }
 
 nav {
-    background-color: #666;
+    background-color: #bfbbbb;
     padding: 10px;
     text-align: center;
 }
 
 nav a {
-    color: #ebedfa;
+    color: #0f0839;
     text-decoration: none;
     margin: 0 10px;
 }
@@ -68,7 +68,7 @@ section p {
 }
 
 footer {
-    background-color: #333;
+    background-color: #0f0839;
     color: #fff;
     text-align: center;
     padding: 10px;
