@@ -56,7 +56,7 @@ section {
 .custom-section {
     padding: 20px;
     border: 1px solid #ccc;
-    margin: 20px;
+    margin: 10px;
 }
 
 section h2 {
@@ -79,7 +79,7 @@ footer {
 
 .content {
     width: 55%; /* Adjust as needed */
-    margin: 10vh auto; 
+    margin: 2vh auto; 
     background-color: #f7f4f4;
     padding: 20px;
     border: 1px solid #ccc;
