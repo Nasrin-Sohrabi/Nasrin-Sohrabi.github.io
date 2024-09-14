@@ -2,26 +2,19 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Past Courses
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
 
-Tdfg
-
-sdfgdfs
 
 
-sdfgdf
-
-
-
-Heading 1
+Cloud Security [Master Degree - RMIT University]
 ======
 
-Heading 2
+Software Engieering [Baschelor and Master - RMIT University]
 ======
 
-Heading 3
+Research Method [Honours Degree]
 ======
