@@ -1,16 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Current Courses"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/Current Courses
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: Deakin University, School of Information Technology"
+date: 2024-01-01
+location: "Melbourne, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
- Network and Security [Master Degree - Deakin University]
+Network and Security [Master Degree]
 ======
 
 Heading 2
