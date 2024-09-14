@@ -8,19 +8,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Current Prijects"
-    url: /talks/    
+  
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "dsfd"
+  - title: "portfolio"
     url: /portfolio/
         
-  - title: "dsgsg"
-    url: /year-archive/
+  
     
-  - title: "sfdgdfs"
+  - title: "CV"
     url: /cv/
     
   - title: "Guide"
