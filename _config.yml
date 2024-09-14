@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr Nasrin Sohrabi"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr Nasrin Sohrabi"
 description              : &description "personal description"
 url                      : https://SohrabiNasrin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD. in Computer Science | 
+  bio              : "Lecturer in Cybersecurity at Deakin University| 
   (Distributed Computing, System Security, Blockchain) "
   location         : "Melbourne"
-  employer         : "Deakin University"
+  employer         : #
   uri              : # URL
   email            : nasrin.sohrabi@deakin.edu.au" 
 
