@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD. in Computer Science | (Distributed Computing, System Security, Blockchain) "
+  bio              : "PhD. in Computer Science | 
+  (Distributed Computing, System Security, Blockchain) "
   location         : "Melbourne"
   employer         : "Deakin University"
   uri              : # URL
@@ -37,7 +38,9 @@ author:
   orcid            : "https://orcid.org/0000-0002-8340-2261"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Nasrin_Sohrabi2
+  linkedin         : https://www.linkedin.com/in/nasrin-sohrabi/
+  dblp             : https://dblp.org/pid/231/1712.html
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
