@@ -17,20 +17,15 @@ My Research Interest
 
  My primary research interests lie in the realms of systems security and scalability/performance, particularly in: 
 
- -- Systems security, including decentralised and cloud/edge-based systems, with a focus on anomaly detection
-      
- -- Enhancing the reliability, scalability, and performance of large-scale distributed systems, with an emphasis on fault tolerance in various systems (such as stream processing) and consensus algorithms in different environments (such as blockchain systems)
+  <li>Systems security, including decentralised and cloud/edge-based systems, with a focus on anomaly detection</li>
+  <li>Enhancing the reliability, scalability, and performance of large-scale distributed systems, with an emphasis on fault tolerance in various systems (such as stream processing) and consensus algorithms in different environments (such as blockchain systems)</li>
   
     
-
+------
 
 News
 ======
 ICDE2024 - paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
-
-
 ------
-Science serves as the compass guiding humanity's journey toward enlightenment, 
-    illuminating the path of progress with the light of empirical discovery.
-
+<span style="font-style: italic;"> Science serves as the compass guiding humanity's journey toward enlightenment, illuminating the path of progress with the light of empirical discovery.</span>
