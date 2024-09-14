@@ -28,4 +28,4 @@ News
 ICDE2024 - paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
 ------
-<span style="font-style: italic; font-color:blue;"> Science serves as the compass guiding humanity's journey toward enlightenment, illuminating the path of progress with the light of empirical discovery.</span>
+<span style="font-style: italic; color:blue;"> Science serves as the compass guiding humanity's journey toward enlightenment, illuminating the path of progress with the light of empirical discovery.</span>
