@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Lecturer (Assistant Professor) at Deakin University, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
       
      
-I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to reach out to me via, <a href="nasrin.sohrabi@deakin.edu.au">email me</a>.
+I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
 
 My Research Interest
 ======
