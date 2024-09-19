@@ -12,9 +12,9 @@ title                    : "Dr Nasrin Sohrabi"
 title_separator          : "-"
 name                     : &name "Dr Nasrin Sohrabi"
 description              : &description "personal description"
-url                      : https://SohrabiNasrin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nasrin-sohrabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SohrabiNasrin.github.io"
+repository               : "nasrin-sohrabi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
