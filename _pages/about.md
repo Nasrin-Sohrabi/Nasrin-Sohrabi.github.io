@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
 News
 ======
 <li>[ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> </li>
 <li>[ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
-
-------
 
 About Me
 ======

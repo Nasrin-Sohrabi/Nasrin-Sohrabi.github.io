@@ -20,6 +20,6 @@ location: "Melbourne, Australia"
     <div class="inner-div">
         <li> Cloud Security [Master Degree - RMIT University]</li>
         <li> Software Engieering [Baschelor and Master - RMIT University]</li>
-        <li> Research Method [Honours Degree- RMIT University]</li>
+        <li> Research Method [Honours Degree - RMIT University]</li>
     </div>    
 </p>
