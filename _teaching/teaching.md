@@ -11,7 +11,7 @@ location: "Melbourne, Australia"
 <h2>Current Courses</h2>
 <p>
     <div class="inner-div">
-        <li> Network and Security [Master Degree - Deakin University]</li>
+        <li> Network Security [Master Degree - Deakin University]</li>
     
     </div>    
 </p>
