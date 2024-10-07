@@ -24,8 +24,8 @@ I am always on the lookout for graduate and undergraduate students who possess a
 
 <span style="font-size:20px;">News</span>
 ======
-<li>[ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> </li>
-<li>[ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
+  * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
+  * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
 
 ***
