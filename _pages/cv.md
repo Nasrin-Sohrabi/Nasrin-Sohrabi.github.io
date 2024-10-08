@@ -21,7 +21,7 @@ redirect_from:
 * Postdoc Research Fellow, School of Computing Technologies, RMIT University, May 2022-November 2023.
 * Senior Software Engineer. Novatti Co., Australia., 2020-2022.
 * Sessional (tutor), School of Computing Technologies, RMIT, Australia, 2018 - 2019
-* Java Developer, Nexright Co, Australia, Feb 2014–Dec 2014.
+<!-- * Java Developer, Nexright Co, Australia, Feb 2014–Dec 2014. -->
 
   
 <span style="font-size:20px;">Major R&D projects</span>
