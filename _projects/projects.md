@@ -1,4 +1,5 @@
----Projects"
+---
+title: "Projects"
 collection: projects
 type: "Lecturer"
 permalink: /projects/projects
