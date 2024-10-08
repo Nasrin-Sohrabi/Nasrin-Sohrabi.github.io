@@ -1,14 +1,14 @@
 ---
 permalink: /
-# title: "Nasrin's homepage"
+title: "Nasrin's homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<span style="font-size:20px;">Nasrin's homepage</span>
-======
+<!-- <span style="font-size:20px;">Nasrin's homepage</span>
+====== -->
 I am currently a Lecturer (Assistant Professor) at Deakin University, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
       
     
