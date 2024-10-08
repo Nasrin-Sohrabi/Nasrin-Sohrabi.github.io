@@ -248,7 +248,7 @@ defaults:
       layout: single
       author_profile: true
 
-   # _current_projects
+   # _projects
   - scope:
       path: ""
       type: projects
