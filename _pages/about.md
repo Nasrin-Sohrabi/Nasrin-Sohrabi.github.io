@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- <span style="font-size:20px;">Nasrin's homepage</span>
 ====== -->
-I am currently a Lecturer (Assistant Professor) at < <a href="https://www.deakin.edu.au/">Deakin Univerist </a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
+I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
       
     
 I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
