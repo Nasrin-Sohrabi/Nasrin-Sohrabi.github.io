@@ -52,21 +52,15 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 <span style="font-size:20px;">Useful Links</span>
 ======
   * Quality Research
-     * Quality Research in Affordable Ways by Dr. Qiang Yan: <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf"> </a>
-
-     * Scientific Writing Skills by Prof. Guanrong Chen: <a href= "http://www.ee.cityu.edu.hk/~gchen/pdf/Writing.pdf"> </a>
+     * <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf">Quality Research in Affordable Ways by Dr. Qiang Yan</a>
+     * <a href= "http://www.ee.cityu.edu.hk/~gchen/pdf/Writing.pdf"> Scientific Writing Skills by Prof. Guanrong Chen:</a>
 
   * Computer Security Conference Ranking and Statistic
-     * <a href= "http://jianying.space/conference-ranking.html"></a>
-     * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm"></a>
+     * <a href= "http://jianying.space/conference-ranking.html">conference-ranking</a>
+     * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">conference-stats</a>
 
   * Security and Privacy Conference Deadline
-     * <a href= "https://sec-deadlines.github.io/"></a>
-     
-
-
-
-
+     * <a href= "https://sec-deadlines.github.io/">Conference Deadlines</a>
 
 ***
 <span style="font-style: italic; color:blue;"> Science serves as the compass guiding humanity's journey toward enlightenment, illuminating the path of progress with the light of empirical discovery.</span>
