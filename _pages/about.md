@@ -11,8 +11,7 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 
 
 ***
-  * Services  
-
+Some recent events 
     * [AISC25] I am serving as the PC Chair as part of ACSW.
     * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
     * [CIKM2024] I am serving as the TPC member.
@@ -24,23 +23,23 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 <span style="font-size:20px;">Research topics/projects:</span>
 ======
 
- * My primary research interests lie in the realms of <span style="font-weight:bold">systems security and scalability/performance</span>, particularly in: 
+ * Primary research interests lie in the realms of <span style="font-weight:bold">systems security and scalability/performance</span>, particularly in: 
 
      * Systems security, including decentralised and cloud/edge-based systems, with a focus on <span style="font-weight:bold">anomaly detection</span>.
      * Enhancing the <span style="font-weight:bold">reliability, scalability, and performance of large-scale distributed systems</span>, with an emphasis on <span style="font-weight:bold">fault tolerance</span> in various systems (such as stream processing) and consensus algorithms in different environments (such as blockchain systems).
 
- * My Current research topics/projects:
+ * Current research topics/projects:
 
       * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to create develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
 
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
-      * Distributed Systems Scalabilities/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
+      * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
 
 
 <span style="font-size:20px;">Prospective students</span>
 ======
- I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
+ I am on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
 
 
 
