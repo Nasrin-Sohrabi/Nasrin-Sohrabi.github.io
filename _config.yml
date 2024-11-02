@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=eEWRaCwAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8340-2261" 
-  researchgate     : https://www.researchgate.net/profile/Nasrin_Sohrabi2
-  dblp             : <a href="https://dblp.org/pid/231/1712.html" target="_blank">DBLP Profile</a>
-  orchid           :
+  researchgate     : "https://www.researchgate.net/profile/Nasrin_Sohrabi2"
+  dblp             : "https://dblp.org/pid/231/1712.html"
+  
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
