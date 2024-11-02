@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size:20px;">Education</span>
+
+Available on demand!
+<!-- <span style="font-size:20px;">Education</span>
 ======
 * Ph.D. in Computer Science, RMIT, Australia, 2022.
 * Honours in Computer Science, RMIT, Australia, 2019. GPA 3.4/4, thesis with HD.
@@ -24,7 +26,7 @@ redirect_from:
 <!-- * Java Developer, Nexright Co, Australia, Feb 2014–Dec 2014. -->
 
   
-<span style="font-size:20px;">Major R&D projects</span>
+<!-- <span style="font-size:20px;">Major R&D projects</span>
 ======
 * CRC-P project on Cryptocurrencies and Fraud detection. Novatti Co. and RMIT.
 * Product design/development in cybersecurity for digital payment. Novatti Co.
@@ -65,13 +67,13 @@ Total budget: $6,084,269.
 * Technical PC member AISC 2024.
 * Technical PC member ACISP24.
 * Review Journals: CSUR; TDSC.
-* Review Conference: ICDCS; ESORICS, AISC, ACISP, CIKM, DSN.
+* Review Conference: ICDCS; ESORICS, AISC, ACISP, CIKM, DSN. -->
 
-<span style="font-size:20px;">HDR Completions (Principal Supervisor)</span>
+<!-- <span style="font-size:20px;">HDR Completions (Principal Supervisor)</span>
 ======
 * Dr Abdullah Alsaedi: Towards Effective and Adaptive Anomaly Detection Methods for Industrial Network Systems. May
 2024.
-* Dr Juhar Abdella: Towards a Secure and Scalable Blockchain-based Peer-to-Peer Energy Trading System. July 2023.
+* Dr Juhar Abdella: Towards a Secure and Scalable Blockchain-based Peer-to-Peer Energy Trading System. July 2023. -->
 
   
-
+ 
