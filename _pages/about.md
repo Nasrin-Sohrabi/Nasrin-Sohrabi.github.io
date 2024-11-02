@@ -10,14 +10,15 @@ redirect_from:
 I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
 
 
-***
-Some recent events 
-    * [AISC25] I am serving as the PC Chair as part of ACSW.
-    * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
-    * [CIKM2024] I am serving as the TPC member.
-    * [DSN2024] I am serving as the TPC member.
-    * [AISC2024] I am serving as PC Chair.
-    * [ACISP2024] I am serving as the TPC member.
+<span style="font-size:20px;">Recent Events:</span>
+======
+
+  * [AISC25] I am serving as the PC Chair as part of ACSW.
+  * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
+  * [CIKM2024] I am serving as the TPC member.
+  * [DSN2024] I am serving as the TPC member.
+  * [AISC2024] I am serving as PC Chair.
+  * [ACISP2024] I am serving as the TPC member.
 
 
 <span style="font-size:20px;">Research topics/projects:</span>
