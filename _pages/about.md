@@ -10,14 +10,17 @@ redirect_from:
 I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
 
 
+
 ***
-    Technical Committee:   
-       * [AISC25] I am serving as the PC Chair as part of ACSW
-       * [FAB2024] I am serving as the TPC member (in conjuction with VLDB)
-       * [CIKM2024] I am serving as the TPC member
-       * [DSN2024] I am serving as the TPC member
-       * [AISC2024] I am serving as PC Chait
-       * [ACISP2024] I am serving as the TPC member
+  * Technical Committee:  
+
+    * [AISC25] I am serving as the PC Chair as part of ACSW.
+    * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
+    * [CIKM2024] I am serving as the TPC member.
+    * [DSN2024] I am serving as the TPC member.
+    * [AISC2024] I am serving as PC Chair.
+    * [ACISP2024] I am serving as the TPC member.
+
 
 <span style="font-size:20px;">Research topics/projects:</span>
 ======
@@ -36,10 +39,10 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
       * Distributed Systems Scalabilities/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
 
 
+
 <span style="font-size:20px;">Prospective students</span>
 ======
-   
-     I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
+ I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
 
 
 <span style="font-size:20px;">Recent news</span>
