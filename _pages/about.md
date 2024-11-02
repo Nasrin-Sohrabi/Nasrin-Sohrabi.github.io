@@ -55,10 +55,10 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
      * <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf">Quality Research in Affordable Ways by Dr. Qiang Yan</a>
 
   * Computer Security Conference Ranking and Statistic
-     * <a href= "http://jianying.space/conference-ranking.html">conference-ranking</a>
-     * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">conference-stats</a>
+     * <a href= "http://jianying.space/conference-ranking.html">Conference-ranking</a>
+     * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">Conference-stats</a>
 
-  * system and Security Conference Deadline
+  * System and Security Conference Deadline
      * <a href="https://dants.github.io/index_sysvenues_deadline.html"> System Conference Deadlines </a>
      * <a href= "https://sec-deadlines.github.io/">Security Conference Deadlines</a>
 
