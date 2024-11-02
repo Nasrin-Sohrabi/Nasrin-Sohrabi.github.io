@@ -290,7 +290,7 @@ defaults:
       share: true
       comments: true  
 
-  # activities
+  # _activities
   - scope:
       path: ""
       type: activities

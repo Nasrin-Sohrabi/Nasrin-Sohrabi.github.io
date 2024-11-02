@@ -22,6 +22,8 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
     * [ACISP2024] I am serving as the TPC member.
 
 
+***
+
 <span style="font-size:20px;">Research topics/projects:</span>
 ======
 
@@ -39,10 +41,13 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
       * Distributed Systems Scalabilities/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
 
 
+***
 
 <span style="font-size:20px;">Prospective students</span>
 ======
  I am always on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
+
+***
 
 
 <span style="font-size:20px;">Recent news</span>
