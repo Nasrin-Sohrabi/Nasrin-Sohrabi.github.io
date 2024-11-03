@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
+<span style=" text-align: justify;"> 
+I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </span>
 
 
 <span style="font-size:20px;">Recent events</span>
@@ -24,6 +25,8 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 <span style="font-size:20px;">Research topics/projects</span>
 ======
 
+<span style=" text-align: justify;"> 
+
  * Primary research interests lie in the realms of <span style="font-weight:bold">systems security and scalability/performance</span>, particularly in: 
 
      * Systems security, including decentralised and cloud/edge-based systems, with a focus on <span style="font-weight:bold">anomaly detection</span>.
@@ -36,18 +39,21 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
       * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
-
+</span>
 
 <span style="font-size:20px;">Prospective students</span>
 ======
- I am on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV.
+<span style=" text-align: justify;"> 
+ I am on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV. </span>
 
 
 
 <span style="font-size:20px;">Recent news!</span>
 ======
+<span style=" text-align: justify;"> 
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
+  </span>
 
 <span style="font-size:20px;">Useful links</span>
 ======
