@@ -65,6 +65,7 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
      * <a href="http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm">Conference-stats</a>
 
   * System and Security Conference Deadline
+     * <a href="https://cs-deadlines.cin.ufpe.br/"> CS Conference Deadlines </a>
      * <a href="https://dants.github.io/index_sysvenues_deadline.html"> System Conference Deadlines </a>
      * <a href= "https://sec-deadlines.github.io/">Security Conference Deadlines</a>
 
