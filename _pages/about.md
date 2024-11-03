@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. 
 
 
-<span style="font-size:20px;">Recent Events:</span>
+<span style="font-size:20px;">Recent events</span>
 ======
 
   * [AISC25] I am serving as the PC Chair as part of ACSW.
@@ -21,7 +21,7 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
   * [ACISP2024] I am serving as the TPC member.
 
 
-<span style="font-size:20px;">Research topics/projects:</span>
+<span style="font-size:20px;">Research topics/projects</span>
 ======
 
  * Primary research interests lie in the realms of <span style="font-weight:bold">systems security and scalability/performance</span>, particularly in: 
@@ -44,12 +44,12 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 
 
 
-<span style="font-size:20px;">RECENT NEWS</span>
+<span style="font-size:20px;">Recent news!</span>
 ======
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
-<span style="font-size:20px;">Useful Links</span>
+<span style="font-size:20px;">Useful links</span>
 ======
   * Quality Research
      * <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf">Quality Research in Affordable Ways by Dr. Qiang Yan</a>
