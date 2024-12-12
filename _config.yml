@@ -235,9 +235,6 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
-  googleceeb89eb0744462f:
-    output: true
-    permalink: /:collection/:path/   
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -305,17 +302,6 @@ defaults:
       author_profile: true
       share: true
       comments: true   
-
- # _googleceeb89eb0744462f
-  - scope:
-      path: ""
-      type: googleceeb89eb0744462f
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true   
-
 
   # _portfolio
   - scope:
