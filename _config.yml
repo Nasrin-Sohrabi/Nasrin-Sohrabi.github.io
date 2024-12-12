@@ -237,7 +237,7 @@ collections:
     permalink: /:collection/:path/
   googleceeb89eb0744462f:
     output: true
-    permalink: /:collection/:path   
+    permalink: /:collection/:path/   
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
