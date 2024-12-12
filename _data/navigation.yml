@@ -21,4 +21,7 @@ main:
     url: /activities/ 
   
   - title: "CV"
-    url: /cv/
+    url: /cv
+
+  -title: "Verification" 
+    url: /_pages/googleceeb89eb0744462f
