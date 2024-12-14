@@ -19,18 +19,18 @@ repository               : "nasrin-sohrabi.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Dr. Nasrin Sohrabi"
-  pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Cybersecurity at Deakin University | 
-   (Distributed Computing, System Security, Blockchain) "
-  area             : (Distributed Computing, System Security, Blockchain) 
-  location         : "Melbourne"
-  employer         : #
-  uri              : #
-  email            : "nasrin.sohrabi@deakin.edu.au" 
+author: ""
+# Biographic information
+avatar           : "profile.png"
+name             : "Dr. Nasrin Sohrabi"
+pronouns         : # example: "she/her"  
+bio              : "Lecturer in Cybersecurity at Deakin University | 
+ (Distributed Computing, System Security, Blockchain) "
+area             : (Distributed Computing, System Security, Blockchain) 
+location         : "Melbourne"
+employer         : #
+uri              : #
+email            : "nasrin.sohrabi@deakin.edu.au" 
   
  
 
