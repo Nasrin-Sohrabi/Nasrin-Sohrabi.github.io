@@ -19,27 +19,27 @@ repository               : "nasrin-sohrabi.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author                   : #
-# Biographic information
-avatar                   : "profile.png"
-name                     : "Dr. Nasrin Sohrabi"
-pronouns                 : # example: "she/her"  
-bio                      : "Lecturer in Cybersecurity at Deakin University | 
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Dr. Nasrin Sohrabi"
+  pronouns         : # example: "she/her"  
+  bio              : "Lecturer in Cybersecurity at Deakin University | 
  (Distributed Computing, System Security, Blockchain) "
-area                     : (Distributed Computing, System Security, Blockchain) 
-location                 : "Melbourne"
-employer                 : #
-uri                      : #
-email                    : "nasrin.sohrabi@deakin.edu.au" 
+  area             : (Distributed Computing, System Security, Blockchain) 
+  location         : "Melbourne"
+  employer         : #
+  uri              : #
+  email            : "nasrin.sohrabi@deakin.edu.au" 
   
  
 
   # Academic websites
-arxiv                    : # URL - Update with the correct link to your profile
-googlescholar            : "https://scholar.google.com/citations?hl=en&user=eEWRaCwAAAAJ&view_op=list_works&sortby=pubdate"
-impactstory              : # URL
-orcid                    : "https://orcid.org/0000-0002-8340-2261" 
-researchgate             : "https://www.researchgate.net/profile/Nasrin_Sohrabi2"
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=eEWRaCwAAAAJ&view_op=list_works&sortby=pubdate"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-8340-2261" 
+  researchgate     : "https://www.researchgate.net/profile/Nasrin_Sohrabi2"
   
   
   
