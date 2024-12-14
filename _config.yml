@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Dr Nasrin Sohrabi"
 description              : &description "personal description"
 url                      : https://nasrin-sohrabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nasrin-sohrabi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,12 +21,11 @@ repository               : "nasrin-sohrabi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Cybersecurity at Deakin University | 
- (Distributed Computing, System Security, Blockchain) "
-  area             : (Distributed Computing, System Security, Blockchain) 
+  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain)"
+  area             : "(Distributed Computing, System Security, Blockchain)" 
   location         : "Melbourne"
   employer         : #
   uri              : #
