@@ -43,8 +43,8 @@ redirect_from:
 
 <span style="font-size:20px;">Prospective students</span>
 ======
-<span style=" text-align: justify;">
-  <ul>I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul> </span>
+<span style="text-align: justify;"></span>
+  <ul style="text-align: justify;">I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul>
 
 
 <span style="font-size:20px;">Recent news!</span>
