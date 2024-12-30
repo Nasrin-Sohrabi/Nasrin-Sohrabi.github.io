@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<span style=" text-align: justify;"> 
-I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </span>
-
+<span style=" text-align: justify;"></span> 
+   
+  <ul> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
+  </span>
 
 <span style="font-size:20px;">Recent events</span>
 ======
@@ -34,23 +35,24 @@ I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.e
 
  * Current research topics/projects:
 
-      * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to create develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
+      * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
 
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
       * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
+
 </span>
 
 <span style="font-size:20px;">Prospective students</span>
 ======
-<span style=" text-align: justify;"> 
- I am on the lookout for graduate and undergraduate students who possess a strong background in system security and performance/scalability. If you're passionate about system research, feel free to email me your CV. </span>
-
+<span style=" text-align: justify;">
+  <ul>I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul> </span>
 
 
 <span style="font-size:20px;">Recent news!</span>
 ======
 <span style=" text-align: justify;"> 
+  
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
   </span>
