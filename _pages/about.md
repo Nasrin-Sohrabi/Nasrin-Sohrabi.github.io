@@ -38,7 +38,6 @@ redirect_from:
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
       * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
-
 </span>
 
 <span style="font-size:20px;">Prospective students</span>
