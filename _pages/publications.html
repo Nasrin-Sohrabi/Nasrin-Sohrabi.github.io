@@ -16,27 +16,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-<!-- {% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %} -->
-
 <br>
 <h style="font-weight: bold;"> Selected Publications</h>
          <ul>
@@ -67,7 +46,8 @@ author_profile: true
 
          </ul>
 
-
+<h style="font-weight: bold;"> Full Publications</h>
+<ul>
 <h style="font-weight: bold;">2025</h>
          <ul>
            <li><p> Wael Issa, Nour Moustafa, Benjamin Turnbull, <b>Nasrin Sohrabi</b>, Zahir Tari, Albert Y Zomaya "VIFL: vulnerability 
@@ -155,6 +135,8 @@ author_profile: true
             <li> <p>D. Alsadie, E. J Alzahrani, <b>Nasrin Sohrabi</b>, Z. Tari, A. Y Zomaya. 
                 "DTFA: a dynamic threshold-based fuzzy approach for power-efficient VM consolidation." <i>2018 IEEE 17th International Symposium on Network Computing and Applications (NCA).</i></p></li>
         </ul>
+
+  </ul>
        
                
 
