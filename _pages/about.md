@@ -38,7 +38,7 @@ redirect_from:
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
       * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
-</span>
+
 
 <span style="font-size:20px;">Prospective students</span>
 ======
@@ -52,12 +52,12 @@ redirect_from:
   
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
-  </span>
+
 
 <span style="font-size:20px;">Useful links</span>
 ======
-  * Quality Research
-     * <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf">Quality Research in Affordable Ways by Dr. Qiang Yan</a>
+  <!-- * Quality Research
+     * <a href= "http://www.mysmu.edu/phdis2008/qiang.yan.2008/Doc/Quality%20Research%20in%20Affordable%20Way.pdf">Quality Research in Affordable Ways by Dr. Qiang Yan</a> -->
 
   * Computer Security Conference Ranking and Statistic
      * <a href= "http://jianying.space/conference-ranking.html">Conference-ranking</a>
