@@ -13,7 +13,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "RSC Group" 
+    url: /RSCG/
   - title: "Projects"
     url: /projects/
    

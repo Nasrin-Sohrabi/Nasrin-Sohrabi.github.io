@@ -234,6 +234,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
+   RSCG: 
+     output: true
+     permalink: /:collection/:path 
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
@@ -300,7 +303,17 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true   
+      comments: true  
+
+  # _RSCG
+  - scope:
+      path: ""
+      type: RSCG
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true       
 
   # _portfolio
   - scope:
