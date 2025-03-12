@@ -234,9 +234,9 @@ collections:
   activities:
     output: true
     permalink: /:collection/:path/
-   RSCG: 
-     output: true
-     permalink: /:collection/:path 
+  RSCG: 
+    output: true
+    permalink: /:collection/:path 
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
