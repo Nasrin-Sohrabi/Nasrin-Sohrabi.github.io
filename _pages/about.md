@@ -13,6 +13,7 @@ redirect_from:
 <span style="font-size:20px;">Recent events</span>
 ======
 
+  * [CIKM2025] I am serving as the TPC member.
   * [AISC25] I am serving as the PC Chair as part of ACSW.
   * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
   * [CIKM2024] I am serving as the TPC member.
