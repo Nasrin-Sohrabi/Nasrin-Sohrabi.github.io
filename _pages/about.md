@@ -18,22 +18,17 @@ redirect_from:
   * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
     
     A big thank you to our partners and colleagues who contributed to this success. Looking forward to the journey ahead! <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
-    
+
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
 <span style="font-size:20px;">Recent events</span>
 ======
 
+  * [AISC26] I am serving as the PC Chair, as part of ACSW.
   * [CIKM2025] I am serving as the TPC member.
   * [AISC25] I am serving as the PC Chair as part of ACSW.
-  * [FAB2024] I am serving as the TPC member (in conjuction with VLDB).
-  * [CIKM2024] I am serving as the TPC member.
-  * [DSN2024] I am serving as the TPC member.
-  * [AISC2024] I am serving as PC Chair.
-  * [ACISP2024] I am serving as the TPC member.
-
-
+ 
 <span style="font-size:20px;">Research topics/projects</span>
 ======
 
