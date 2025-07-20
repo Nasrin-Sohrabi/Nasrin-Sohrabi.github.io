@@ -15,9 +15,10 @@ redirect_from:
 <span style="font-size:20px;">Recent news!</span>
 ======
 <span style=" text-align: justify;"> 
-  * [ARC LP] -- Our team has been awarded an ARC Linkage Project — one of the most prestigious research grants in Australia 🇦🇺. This funding will support collaborative research with industry to tackle real-world challenges and drive meaningful impact.
-
-A big thank you to our partners and colleagues who contributed to this success. Looking forward to the journey ahead! <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
+  * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
+    
+    A big thank you to our partners and colleagues who contributed to this success. Looking forward to the journey ahead! <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
+    
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
 
