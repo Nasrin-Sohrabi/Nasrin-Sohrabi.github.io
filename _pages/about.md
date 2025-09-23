@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Profile"
+title: "Overview" 
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span style="text-align: justify;"></span>
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne, Australia. I completed my Ph.D. in Computer Science at RMIT University under the guidance/supervision of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
+  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
 
 
 
