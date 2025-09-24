@@ -228,7 +228,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/  
-  supervisions:
+  people:
     output: true
     permalink: /:collection/:path/  
   activities:
