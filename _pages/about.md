@@ -10,7 +10,7 @@ redirect_from:
 <span style="text-align: justify;"></span>
   <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
 
-  <ul>I am also team lead at Resilient and Scalable Computing Group <a href=https://rscg-research.gitlab.io/rscg.gitlab.io>[RSCG]</a></ul>
+  <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
 
   <ul style="text-align: justify;"> I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul>
 
