@@ -8,13 +8,18 @@ redirect_from:
 ---
 
 <span style="text-align: justify;"></span>
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
+
+  * <strong>Academic</strong>
+  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
   
   <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
-  
-  <ul> I also have a decade of industry experience as a Senior Software Engineer, developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including real-time credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
 
   <ul style="text-align: justify; color: red"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
+
+  * <strong>Industry</strong>
+  <ul style="text-align: justify;"> I also have a decade of industry experience as a Senior Software Engineer, developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including real-time credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
+
+  
 
 
 <span style="font-size:20px;">News!</span>
@@ -22,6 +27,7 @@ redirect_from:
 <span style=" text-align: justify;"> 
    
   * Call For Papers, <a href="https://sites.google.com/view/aisc2026">AISC 2026 Conference</a> 
+
   * [ITNNLS] [Top Ranked Journal Q1] - paper published - <span style="font-style: italic;">"DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme for Mitigating Poisoning Attacks" [2025]</span> 
 
   * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
@@ -33,12 +39,12 @@ redirect_from:
 
   * [ICDE2023] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "Radar: Reactive concept drift management with robust variational inference for evolving iot data streams."</span>
 
-<span style="font-size:20px;">Recent events</span>
+<!-- <span style="font-size:20px;">Recent events</span>
 ======
 
   * [AISC26] I am serving as the PC Chair, as part of ACSW.
   * [CIKM2025] I am serving as the TPC member.
-  * [AISC25] I am serving as the PC Chair as part of ACSW.
+  * [AISC25] I am serving as the PC Chair as part of ACSW. -->
  
 <span style="font-size:20px;">Research Topics/Interests</span>
 ======
