@@ -10,9 +10,7 @@ redirect_from:
 <span style="text-align: justify;"></span>
 
   * <strong>Academic</strong>
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. My research spans systems security, reliability, and scalability, with recent work focusing on anomaly detection and blockchain forensics. [See my research focus <a href="https://nasrin-sohrabi.github.io/research/"> here</a>].</ul> 
-  
-  <ul>I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science.</ul> 
+  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was postdoctoral research fellow at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. My research spans systems security, reliability, and scalability, with recent work focusing on anomaly detection and blockchain forensics. [See my research focus <a href="https://nasrin-sohrabi.github.io/research/"> here</a>].</ul> 
   
   <ul>I also lead the Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a>, fostering collaborations across academia and industry. If you are an academic or an industry practitioner and are interested in joining or collaborating with the group, please feel free to email me. </ul>
 
