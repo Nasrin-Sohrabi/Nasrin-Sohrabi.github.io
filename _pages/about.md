@@ -48,11 +48,11 @@ redirect_from:
 
 <span style=" text-align: justify;">  
  
-      * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
+  * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
 
-      * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
+  * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
-      * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
+  * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
 
 <span style="font-size:20px;">Useful links</span>
 ======
