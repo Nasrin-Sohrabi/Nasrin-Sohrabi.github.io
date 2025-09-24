@@ -10,7 +10,7 @@ redirect_from:
 <span style="text-align: justify;"></span>
 
   * <strong>Academic</strong>
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
+  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. Please refer to <a href="https://nasrin-sohrabi.github.io/services/"> this link </a> for my research interest</ul>
   
   <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
 
@@ -39,14 +39,8 @@ redirect_from:
 
   * [ICDE2023] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "Radar: Reactive concept drift management with robust variational inference for evolving iot data streams."</span>
 
-<!-- <span style="font-size:20px;">Recent events</span>
-======
-
-  * [AISC26] I am serving as the PC Chair, as part of ACSW.
-  * [CIKM2025] I am serving as the TPC member.
-  * [AISC25] I am serving as the PC Chair as part of ACSW. -->
  
-<span style="font-size:20px;">Research Topics/Interests</span>
+<!-- <span style="font-size:20px;">Research Topics/Interests</span>
 ======
 
 <span style=" text-align: justify;"> 
@@ -55,7 +49,7 @@ redirect_from:
     <ul style=" text-align: justify;"> My research focuses on strengthening the security of decentralised and cloud/edge-based systems through anomaly detection that adapts to concept drift and adversarial behaviours. A key strand of this work extends to blockchain forensics, where anomaly detection techniques are applied to <span style="font-style: bold"> identify scams, fraud </span>, and other illicit activities embedded in transaction networks. By combining adaptive detection with system-level monitoring, my aim is to enhance trust and resilience in large-scale, dynamic infrastructures.</ul>
 
   * <strong>Distributed Systems Reliability and Performance</strong>
-      <ul style=" text-align: justify;"> I investigate how distributed systems maintain reliability and scalability in the presence of faults and adversarial threats. My research focuses on (1) consensus protocols for blockchain and distributed environments that must balance security, throughput, and energy efficiency, while also enabling forensic visibility to support fraud and scam detection; and (2) fault-tolerance mechanisms for stream-processing frameworks that ensure consistent low-latency analytics under failures.</ul>
+      <ul style=" text-align: justify;"> I investigate how distributed systems maintain reliability and scalability in the presence of faults and adversarial threats. My research focuses on (1) consensus protocols for blockchain and distributed environments that must balance security, throughput, and energy efficiency, while also enabling forensic visibility to support fraud and scam detection; and (2) fault-tolerance mechanisms for stream-processing frameworks that ensure consistent low-latency analytics under failures.</ul> -->
 
 <!--   
 <span style="font-size:20px;">Current Projects</span>
