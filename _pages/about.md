@@ -9,10 +9,10 @@ redirect_from:
 
 <span style="text-align: justify;"></span>
   <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
-
-  <ul>Prior to </ul>
-
+  
   <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
+  
+  <ul> I also have a decade of industry experience as a Senior Software Engineer, developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including real-time credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
 
   <ul style="text-align: justify; color: red"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
 
