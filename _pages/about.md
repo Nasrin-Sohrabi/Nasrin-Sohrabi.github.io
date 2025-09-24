@@ -11,16 +11,15 @@ redirect_from:
 
   * <strong>Academic</strong>
   <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was postdoctoral research fellow at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. My research spans systems security, reliability, and scalability, with recent work focusing on anomaly detection and blockchain forensics. [See my research focus <a href="https://nasrin-sohrabi.github.io/research/"> here</a>].</ul> 
-  
-  <ul>I also lead the Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a>, fostering collaborations across academia and industry. If you are an academic or an industry practitioner and are interested in joining or collaborating with the group, please feel free to email me. </ul>
-
+   
   <ul style="text-align: justify; color: red"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
 
   * <strong>Industry</strong>
   <ul style="text-align: justify;"> I also have a decade of industry experience as a Senior Software Engineer, developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
 
   
-
+  
+<span style="text-align: justify;"> I also lead the Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a>, fostering collaborations across academia and industry. If you are an academic or an industry practitioner and are interested in joining or collaborating with the group, please feel free to email me.</span> 
 
 <span style="font-size:20px;">News!</span>
 ======
