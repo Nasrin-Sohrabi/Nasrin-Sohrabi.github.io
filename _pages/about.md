@@ -20,7 +20,8 @@ redirect_from:
 <span style="font-size:20px;">News!</span>
 ======
 <span style=" text-align: justify;"> 
-  
+   
+  * Call For Papers, <a href="https://sites.google.com/view/aisc2026">AISC 2026 Conference</a> 
   * [ITNNLS] [Top Ranked Journal Q1] - paper published - <span style="font-style: italic;">"DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme for Mitigating Poisoning Attacks" [2025]</span> 
 
   * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
