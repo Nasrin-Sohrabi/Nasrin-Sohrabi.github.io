@@ -36,9 +36,12 @@ redirect_from:
 
  * Primary research interests lie in the realms of <span style="font-weight:bold">systems security and scalability/performance</span>, particularly in: 
 
-     * Systems security, including decentralised and cloud/edge-based systems, with a focus on <span style="font-weight:bold">anomaly detection</span>.
-     * Enhancing the <span style="font-weight:bold">reliability, scalability, and performance of large-scale distributed systems</span>, with an emphasis on <span style="font-weight:bold">fault tolerance</span> in various systems (such as stream processing) and consensus algorithms in different environments (such as blockchain systems).
+     * Systems Security in Decentraliased and Cloud/Edge Platforms
+      <ul> My research focuses on strengthening the security of decentralised and cloud/edge-based systems through anomaly detection that adapts to concept drift and adversarial behaviours. A key strand of this work extends to blockchain forensics, where anomaly detection techniques are applied to identify scams, fraud, and other illicit activities embedded in transaction networks. By combining adaptive detection with system-level monitoring, my aim is to enhance trust and resilience in large-scale, dynamic infrastructures. </ul>
 
+     * Distributed Systems Reliability and Performance
+      <ul>I investigate how distributed systems maintain reliability and scalability in the presence of faults and adversarial threats. My research focuses on (1) consensus protocols for blockchain and distributed environments that must balance security, throughput, and energy efficiency, while also enabling forensic visibility to support fraud and scam detection; and (2) fault-tolerance mechanisms for stream-processing frameworks that ensure consistent low-latency analytics under failures.</ul>
+    
  * Current research topics/projects:
 
       * CRC-P Project: Fraud detection within digital payment systems, more specifically cryptocurreny transactions. Our project aims to develop a digital platform consisting of novel anti-fraud and anti-money laundering techniques, to align Crypto transactions with traditional payment options such as credit cards.  
