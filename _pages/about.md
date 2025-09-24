@@ -12,7 +12,7 @@ redirect_from:
 
   <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
 
-  <ul style="text-align: justify;"> I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul>
+  <ul style="text-align: justify; color: red"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
 
 
 <span style="font-size:20px;">News!</span>
