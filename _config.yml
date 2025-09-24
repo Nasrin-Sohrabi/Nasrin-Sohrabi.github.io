@@ -216,7 +216,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -231,7 +231,10 @@ collections:
   people:
     output: true
     permalink: /:collection/:path/  
-  activities:
+  services:
+    output: true
+    permalink: /:collection/:path/
+  grants:
     output: true
     permalink: /:collection/:path/
   RSCG: 

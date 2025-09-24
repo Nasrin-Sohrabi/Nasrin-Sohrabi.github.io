@@ -17,11 +17,8 @@ main:
   - title: "Services"
     url: /services/  
   
-  - title: "People"
-    url: /people/
-
   - title: "Grants and Awards"
-     url: /grants/
+    url: /grants/
 
   - title: "RSCGroup" 
     url: /RSCG/
