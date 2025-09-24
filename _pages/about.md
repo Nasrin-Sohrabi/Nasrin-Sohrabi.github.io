@@ -10,14 +10,14 @@ redirect_from:
 <span style="text-align: justify;"></span>
   <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. </ul>
 
+  <ul style="text-align: justify;"> I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul>
 
 
 <span style="font-size:20px;">Recent news!</span>
 ======
 <span style=" text-align: justify;"> 
   * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
-    
-    A big thank you to our partners and colleagues who contributed to this success. Looking forward to the journey ahead! <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
+    <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
 
   * [ICSOC2024] [Core ranked A -- 15% acceptance rate]- paper accepted - <span style="font-style: italic;">"A Query Language to Enhance Security and Privacy of Blockchain as A Service (BaaS)"</span> 
   * [ICDE2024] [Core ranked A*]- paper accepted - <span style="font-style: italic;"> "A Predictive Profiling and Performance Modeling Approach for Distributed Stream Processing in Edge."</span>
@@ -46,13 +46,6 @@ redirect_from:
       * Cryptocurrency scams: the goal is to understand how the scams work, how to detect them, and scammers's tactics.  
 
       * Distributed Systems Scalability/Performance: The project aims to improve the scalability and performance of distributed systems. We focus on developing a new consensus algorithm that can be used in distributed systems to improve their performance and scalability.
-
-
-<span style="font-size:20px;">Prospective students</span>
-======
-<span style="text-align: justify;"></span>
-  <ul style="text-align: justify;">I am on the lookout for graduate and undergraduate students who possess a strong background in system security, distributed computing, and machine learning. If you're passionate about system research, feel free to email me your CV. </ul>
-
 
 
 
