@@ -20,8 +20,8 @@ main:
   - title: "Grants and Awards"
     url: /grants/
 
-  - title: "RSCGroup" 
-    url: /RSCG/
+  # - title: "RSCGroup" 
+  #   url: /RSCG/
 
   - title: "Projects"
     url: /projects/

@@ -234,9 +234,9 @@ collections:
   services:
     output: true
     permalink: /:collection/:path/
-  grants:
-    output: true
-    permalink: /:collection/:path/
+  # grants:
+  #   output: true
+  #   permalink: /:collection/:path/
   RSCG: 
     output: true
     permalink: /:collection/:path 
