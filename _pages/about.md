@@ -18,6 +18,9 @@ redirect_from:
 <span style="font-size:20px;">News!</span>
 ======
 <span style=" text-align: justify;"> 
+  
+  * [ITNNLS] [Top Ranked Journal Q1] - paper published - <span style="font-style: italic;">"DSPFL: A Deep-Layer Sign Sharing Personalized Federated Learning Scheme for Mitigating Poisoning Attacks" [2025]</span> 
+
   * [ARC LP] -- Our team has been awarded an ARC Linkage Project, one of the most prestigious research grants in Australia. This funding will support collaborative research with DEAKIN, RMIT, UNSW and our industry partner to tackle real-world challenges and drive meaningful impact.
     <a href= "https://rms.arc.gov.au/RMS/Report/Download/Report/a3f6be6e-33f7-4fb5-98a6-7526aaa184cf/277">ARC LP</a>
 
