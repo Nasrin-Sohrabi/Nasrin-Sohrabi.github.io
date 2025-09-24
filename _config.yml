@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain) | Team Lead at <a href=https://rscg-research.gitlab.io/rscg.gitlab.io></a>"
+  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain) | Team Lead at https://rscg-research.gitlab.io/rscg.gitlab.io"
   area             : "(Distributed Computing, System Security, Blockchain)" 
   location         : "Melbourne"
   employer         : #
