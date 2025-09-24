@@ -9,13 +9,13 @@ redirect_from:
 
 <span style="text-align: justify;"></span>
 
-  * <strong>Academic</strong>
+  * <strong>Academic Career</strong>
   <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was postdoctoral research fellow at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. My research spans systems security, reliability, and scalability, with recent work focusing on anomaly detection and blockchain forensics. [See my research focus <a href="https://nasrin-sohrabi.github.io/research/"> here</a>].</ul> 
    
-  <ul style="text-align: justify; color: red"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
+  <ul style="text-align: justify; color: green"> I am always looking for self-motivated PhD students who possess a strong background in system security, distributed computing, and machine learning. Please email me your CV, transcript, research statement (no more than 200 words), and english test score. </ul>
 
-  * <strong>Industry</strong>
-  <ul style="text-align: justify;"> I also have a decade of industry experience as a Senior Software Engineer, developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
+  * <strong>Industry Career</strong>
+  <ul style="text-align: justify;"> I also have a decade of industry experience as a Senior Software Engineer in both local and international companies, where I developing secure, scalable, and high-performance products in the digital payments domain. My work spanned transaction processing systems and advanced fraud-detection capabilities, including credit card fraud prevention using serverless inference models at the core of leading digital payment platforms.</ul>
 
   
 <div style="border-left: 4px solid #0f766e; padding: 0.5rem 1rem; margin: 1em 0; text-align: justify;">
