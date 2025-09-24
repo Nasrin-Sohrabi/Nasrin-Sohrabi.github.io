@@ -10,7 +10,7 @@ redirect_from:
 <span style="text-align: justify;"></span>
 
   * <strong>Academic</strong>
-  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. Please refer to <a href="https://nasrin-sohrabi.github.io/services/"> this link </a> for my research interest</ul>
+  <ul style="text-align: justify;"> I am currently a Lecturer (Assistant Professor) at <a href="https://www.deakin.edu.au/">Deakin University</a>, School of Information Technologies, Burwood, Melbourne. Before that, I was at RMIT University, Melbourne. I completed my Ph.D. in Computer Science at RMIT University under the supervsion of Professor Zahir Tari. Prior to that, I earned a Bachelor's degree in Computer Engineering (Software) and an Honours degree in Computer Science. Please refer to <a href="https://nasrin-sohrabi.github.io/research/"> this link </a> for my research interest</ul>
   
   <ul>I am also team lead at Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a></ul>
 
