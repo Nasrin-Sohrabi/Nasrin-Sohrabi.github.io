@@ -5,22 +5,29 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "People"
     url: /people/
-
+  
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Services"
+    url: /services/  
+  
+  - title: "People"
+    url: /people/
+
+  - title: "Grants and Awards"
+     url: /grants/
+
   - title: "RSCGroup" 
     url: /RSCG/
+
   - title: "Projects"
     url: /projects/
    
-  - title: "Activities"
-    url: /activities/ 
-  
   - title: "CV"
     url: /cv
