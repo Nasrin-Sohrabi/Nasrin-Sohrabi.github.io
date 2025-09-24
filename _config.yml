@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain) | Team Lead at Resilent and Sclabale Computing Group (RSCG)"
+  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain) | Team Lead at RSCG"
   area             : "(Distributed Computing, System Security, Blockchain)" 
   location         : "Melbourne"
   employer         : #
@@ -39,7 +39,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8340-2261" 
   researchgate     : "https://www.researchgate.net/profile/Nasrin_Sohrabi2"
-  
+  rscg             : "https://rscg-research.gitlab.io/rscg.gitlab.io"  
   
   
   # Repositories and software development
