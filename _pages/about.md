@@ -26,7 +26,7 @@ redirect_from:
 ======
 <span style=" text-align: justify;"> 
   
-  * [TIFS] [Top journal, A*] - <span style="font-style: itanlic;">"Intelligent Edge Data Integrity Verification with Dynamic Unreliable Data Replica Selection" [2025]</span>
+  * [TIFS] [Top journal, A*] - <span style="font-style: italic;">"Intelligent Edge Data Integrity Verification with Dynamic Unreliable Data Replica Selection" [2025]</span>
 
   * Call For Papers, <a href="https://sites.google.com/view/aisc2026">AISC 2026 Conference</a> 
 
