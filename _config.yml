@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Nasrin Sohrabi"
   pronouns         : # example: "she/her"  
-  bio              : "Lecturer in Cybersecurity at Deakin University | (Distributed Computing, System Security, Blockchain)"
-  area             : "(Distributed Computing, System Security, Blockchain)" 
+  bio              : "Lecturer in Cybersecurity at Deakin University | (Fault-Tolerant Distributed Systems, Adaptive Anomaly Detection, Blockchain Forensic)"
+  area             : "(Fault-Tolerant Distributed Systems, Adaptive Anomaly Detection, Blockchain Forensic)" 
   location         : "Melbourne"
   employer         : #
   uri              : #
