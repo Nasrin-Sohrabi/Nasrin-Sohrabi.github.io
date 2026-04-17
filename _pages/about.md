@@ -25,7 +25,11 @@ redirect_from:
 <span style="font-size:20px;">News!</span>
 ======
 <span style=" text-align: justify;"> 
-  
+
+  * [Apr 26] I am invited to serve as a TPC member for CIKM'26
+  * [Apr 26] I was awarded the FHEA (Advanced Higher Education) Fellowship
+  * [TDSC] <span style="font-style: italic;">" Split Learning with Local Epoch Regulation and Time-aware Detection" [Feb 26]</span>
+  * [Feb 26] I am PC Chair of AISC'26 conference.
   * [TIFS] [Top journal, A*] - <span style="font-style: italic;">"Intelligent Edge Data Integrity Verification with Dynamic Unreliable Data Replica Selection" [2025]</span>
 
   * Call For Papers, <a href="https://sites.google.com/view/aisc2026">AISC 2026 Conference</a> 
