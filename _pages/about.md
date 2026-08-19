@@ -19,7 +19,7 @@ redirect_from:
 
   
 <div style="border-left: 4px solid #0f766e; padding: 0.5rem 1rem; margin: 1em 0; text-align: justify;">
-<span style="text-align: justify;"> I also lead the Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/rscg.gitlab.io">[RSCG]</a>, fostering collaborations across academia and industry. If you are an academic or an industry practitioner and are interested in joining or collaborating with the group, please feel free to email me.</span>
+<span style="text-align: justify;"> I also lead the Resilient and Scalable Computing Group <a href="https://rscg-research.gitlab.io/">[RSCG]</a>, fostering collaborations across academia and industry. If you are an academic or an industry practitioner and are interested in joining or collaborating with the group, please feel free to email me.</span>
 </div> 
 
 <span style="font-size:20px;">News!</span>
