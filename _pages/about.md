@@ -25,7 +25,7 @@ redirect_from:
 <span style="font-size:20px;">News!</span>
 ======
 <span style=" text-align: justify;"> 
-
+  * [NeurIPS'26] - <span style="font-style: italix;">"Who Watches the Watchers? Semantically-Constrained Reinforcement Learning for Red-Teaming Provenance Intrusion Detectors" [Dec 26] </span>   
   * [Apr 26] I am invited to serve as a TPC member for CIKM'26
   * [Apr 26] I was awarded the FHEA (Advanced Higher Education) Fellowship
   * [TDSC] <span style="font-style: italic;">" Split Learning with Local Epoch Regulation and Time-aware Detection" [Feb 26]</span>
